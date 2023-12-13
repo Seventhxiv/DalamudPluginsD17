@@ -1,8 +1,9 @@
 [plugin]
 repository = "https://github.com/wrath16/MapPartyAssist.git"
-commit = "997f147052fe90fedc31d30e2d8b70703270d521"
+commit = "bd52d2fe22bc5dc5dd0eddbc9f7760dec21e836d"
 owners = ["wrath16"]
 project_path = "MapPartyAssist"
 changelog = """
-- Initial Dalamud release.
+- Rollback v1.0.1 changes.
+- Some performance improvements.
 """
